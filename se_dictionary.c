@@ -235,8 +235,8 @@ int main()
     printf("\n\n");
     printf("The following commands are available:\n");
     printf("1. Search words - s <word>\n");
-    printf("1. Delete words - d <word>\n");
-    printf("1. Insert words - i <word> <meaning>\n");
+    printf("2. Delete words - d <word>\n");
+    printf("3. Insert words - i <word> <meaning>\n");
     printf("Press q to quit\n\n");
     
 
