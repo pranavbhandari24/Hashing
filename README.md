@@ -10,8 +10,11 @@ To run the program, type the following commands:
 # Commands Supported
 After all the entries in the input file is hashed, the following commands can be run:
 1. Search words
-        s <word>
+        
+          s <word>
 2. Delete words 
-        d <word>
+        
+          d <word>
 3. Insert words
-        i <word> <meaning>
+        
+          i <word> <meaning>
